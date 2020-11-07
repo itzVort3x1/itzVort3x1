@@ -37,7 +37,8 @@
 <img align="left" alt="Dart" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*knHF_qpxdtS8h0Z8EeqowA.png" />
 <img align="left" alt="Java" width="26px" src="https://qph.fs.quoracdn.net/main-qimg-48b7a3d8958565e7aa3ad4dbf2312770.webp" />
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />
-<img align="left" alt="Kali Linux" width="26px" src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" />
+<img align="left" alt="Kali Linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
+<img align="left" alt="Vue js" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" />
 <br>
 
 ---

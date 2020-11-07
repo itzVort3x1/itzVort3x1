@@ -1,10 +1,6 @@
 ### Hi there, I'm Kaustubh - aka **itzVort3x1** 👋
+![Twitter Follow](https://img.shields.io/twitter/follow/saiKaustubh?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-[![HitCount](http://hits.dwyl.com/itzVort3x1/itzVort3x1.svg)](http://hits.dwyl.com/itzVort3x1/itzVort3x1)
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzvort3x1&label=Profile%20views&color=0e75b6&style=flat" alt="itzvort3x1" /> </p>
-<br>
 
 ### Developer, Student and a Keen Learner!!
 
@@ -14,7 +10,7 @@
 - ⚡ Fun fact: Coffee addict and a Music enthusiast
   <br>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/saiKaustubh?color=1DA1F2&logo=Twitter&style=for-the-badge)
+
 
 ### Connect with me:
 

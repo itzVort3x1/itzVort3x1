@@ -2,12 +2,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/saiKaustubh?color=1DA1F2&logo=Twitter&style=for-the-badge)
 <br>
 <br>
-Personal Website [TechSketch](https://techsketch.herokuapp.com/)
-<br>
-Chat App Using Vue [Ninja-Chat](https://ninja-chat-680a5.web.app/)
-<br>
-Reaction Timer [Check it out](https://itzvort3x1.github.io/)
-
 
 ### Developer, Student and a Keen Learner!!
 
@@ -16,7 +10,11 @@ Reaction Timer [Check it out](https://itzvort3x1.github.io/)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Coffee addict and a Music enthusiast
   <br>
-
+### Some of My Hosted Projects!!
+- Personal Website [TechSketch](https://techsketch.herokuapp.com/)
+- Chat App Using Vue [Ninja-Chat](https://ninja-chat-680a5.web.app/)
+- Reaction Timer [Check it out](https://itzvort3x1.github.io/)
+- More to come, Stay Tuned!
 
 
 ### Connect with me:

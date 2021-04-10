@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Coffee addict and a Music enthusiast
   <br>
 ### Some of My Hosted Projects!!
-- Personal Website [TechSketch](https://techsketch.herokuapp.com/)
+- Personal Website [TechSketch](https://techsketch-react.herokuapp.com/)
 - Chat App Using Vue [Ninja-Chat](https://ninja-chat-680a5.web.app/)
 - Reaction Timer [Check it out](https://itzvort3x1.github.io/)
 - More to come, Stay Tuned!

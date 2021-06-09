@@ -30,9 +30,6 @@
 <img alt="discord" width="26px" src="https://img.icons8.com/color/48/000000/discord-logo.png">
 </code>](https://discordapp.com/users/380751188997570571/)
 
-
-<br>
-
 ### Languages and Tools:
 
 [<code>

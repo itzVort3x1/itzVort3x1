@@ -27,6 +27,9 @@
 <img alt="linkedin" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png">
 </code>](https://www.linkedin.com/in/sai-kaustubh-3ab4491b5/)
 [<code>
+<img alt="telegram" width="26px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png">
+</code>](https://t.me/Kaustubh11)
+[<code>
 <img alt="discord" width="26px" src="https://img.icons8.com/color/48/000000/discord-logo.png">
 </code>](https://discordapp.com/users/380751188997570571/)
 

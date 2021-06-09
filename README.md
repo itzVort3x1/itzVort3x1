@@ -20,8 +20,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kaustubh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kaustubh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<code>
+<img alt="twitter" width="26px" src="https://img.icons8.com/color/48/000000/twitter--v2.png"/>
+</code>](https://twitter.com/saikaustubh)
+[<code>
+<img alt="linkedin" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png">
+</code>](https://www.linkedin.com/in/sai-kaustubh-3ab4491b5/)
+[<code>
+<img alt="discord" width="26px" src="https://img.icons8.com/color/48/000000/discord-logo.png">
+</code>](https://discordapp.com/users/380751188997570571/)
+
 
 <br>
 
@@ -82,17 +90,11 @@
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
 <img alt="mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
 </code>](https://docs.mongodb.com/)
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)

@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer on small projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 💬 Ask me about any Questions Related to front end Technology, Web development, App development.
 - ⚡ Fun fact: Coffee addict and a Music enthusiast
   <br>
 ### Some of My Hosted Projects!!

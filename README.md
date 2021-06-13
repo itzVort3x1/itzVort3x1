@@ -60,6 +60,12 @@
 <img alt="redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png" />
 </code>](https://redux.js.org/)
 [<code>
+<img alt="Apollo" width="26px" src="https://img.icons8.com/color/48/000000/apollo.png" />
+</code>](https://www.apollographql.com/docs/react/)
+[<code>
+<img alt="GraphQl" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png" />
+</code>](https://graphql.org/)
+[<code>
 <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
 </code>](https://docs.oracle.com/en/java/)
 [<code>
@@ -101,6 +107,9 @@
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
+[<code>
+<img alt="npm" width="26px" src="https://img.icons8.com/color/48/000000/npm.png"/>
+</code>](https://www.npmjs.com/)
 <br />
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">

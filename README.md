@@ -104,6 +104,8 @@
 [<code>
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
+<br />
+<br />
 [<code>
 <img alt="mongodb" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
 </code>](https://docs.mongodb.com/)
@@ -116,6 +118,7 @@
 [<code>
 <img alt="npm" width="26px" src="https://img.icons8.com/color/48/000000/npm.png"/>
 </code>](https://www.npmjs.com/)
+<br />
 <br />
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
@@ -132,6 +135,9 @@
 [<code>
 <img alt="android" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png">
 </code>](https://developer.android.com/)
+[<code>
+<img alt="virtualbox" width="26px" src="https://img.icons8.com/color/48/000000/virtualbox.png">
+</code>](https://www.virtualbox.org/wiki/Downloads)
 
 ---
 

@@ -35,6 +35,9 @@
 [<code>
 <img alt="slack" width="26px" src="https://img.icons8.com/color/48/000000/slack.png">
 </code>](https://app.slack.com/client/TM8CM44G5/DMFT99T8Q/user_profile/UM4E52LD8)
+[<code>
+<img alt="slack" width="26px" src="https://img.icons8.com/color/48/000000/stackoverflow.png">
+</code>](https://stackoverflow.com/users/14154849/kaustubh)
 
 ### Languages and Tools:
 

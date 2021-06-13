@@ -38,6 +38,9 @@
 [<code>
 <img alt="slack" width="26px" src="https://img.icons8.com/color/48/000000/stackoverflow.png">
 </code>](https://stackoverflow.com/users/14154849/kaustubh)
+[<code>
+<img alt="slack" width="26px" src="https://img.icons8.com/color/48/000000/stackexchange.png">
+</code>](https://meta.stackexchange.com/users/1018292/kaustubh)
 
 ### Languages and Tools:
 

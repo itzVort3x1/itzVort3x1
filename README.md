@@ -1,4 +1,6 @@
-### Hi there, I'm Kaustubh - aka **itzVort3x1** 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzvort3x1&label=Profile%20views&color=0e75b6&style=flat" alt="itzvort3x1" /> </p>
+### Hi there, I'm Kaustubh - aka **itzVort3x1** 👋<br>
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/saiKaustubh?color=1DA1F2&logo=Twitter&style=for-the-badge)
 <br>
 <br>
@@ -41,6 +43,15 @@
 [<code>
 <img alt="stack exchange" width="26px" src="https://img.icons8.com/color/48/000000/stackexchange.png">
 </code>](https://meta.stackexchange.com/users/1018292/kaustubh)
+[<code>
+<img alt="dribble" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"/>
+</code>](https://dribbble.com/itzvort3x1)
+[<code>
+<img alt="gfg" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"/>
+</code>](https://auth.geeksforgeeks.org/user/saikaustubh10)
+[<code>
+<img alt="hackerrank" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
+</code>](https://www.hackerrank.com/saikaustubh10)
 
 ### Languages and Tools:
 
@@ -141,7 +152,12 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzvort3x1&show_icons=true&locale=en" alt="itzvort3x1" /></p>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kaustubh02"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kaustubh02" /></a></p><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzvort3x1&show_icons=true&locale=en&layout=compact" alt="itzvort3x1" /></p>
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=itzvort3x1&show_icons=true&locale=en" alt="itzvort3x1" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=itzvort3x1&" alt="itzvort3x1" /></p>
 
 [twitter]: https://twitter.com/saikaustubh
 [linkedin]: https://www.linkedin.com/in/sai-kaustubh-3ab4491b5/

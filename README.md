@@ -49,9 +49,6 @@
 <img alt="dribble" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"/>
 </code>](https://dribbble.com/itzvort3x1)
 [<code>
-<img alt="gfg" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"/>
-</code>](https://auth.geeksforgeeks.org/user/saikaustubh10)
-[<code>
 <img alt="hackerrank" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"/>
 </code>](https://www.hackerrank.com/saikaustubh10)
 

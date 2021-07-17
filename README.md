@@ -1,6 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itzvort3x1&label=Profile%20views&color=0e75b6&style=flat" alt="itzvort3x1" /> </p>
-
-
 ### Hi there, I'm Kaustubh - aka **itzVort3x1**👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/saiKaustubh?color=1DA1F2&logo=Twitter&style=for-the-badge)

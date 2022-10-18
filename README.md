@@ -4,7 +4,7 @@
 <br>
 <br>
 
-### Developer, Student and a Keen Learner!!
+### Developer, Student and a Keen Learner!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developer on small projects

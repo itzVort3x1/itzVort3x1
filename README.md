@@ -4,7 +4,7 @@
 <br>
 
 # 💫 About Me:
-🌱 I’m currently learning Swift <br>👯 I’m looking to collaborate with other Developer on small projects<br>🥅 2022 Goals: Microservices, Competitive Programming<br>💬 Ask me any Questions Related to front-end Technology, Web development, App development.<br>⚡ Fun fact: Coffee addict and a Music enthusiast
+🌱 I’m currently learning Swift. <br>👯 I’m looking to collaborate with other Developer on small projects<br>🥅 2022 Goals: Microservices, Competitive Programming<br>💬 Ask me any Questions Related to front-end Technology, Web development, App development.<br>⚡ Fun fact: Coffee addict and a Music enthusiast
 
 
 ## 🌐 Socials:

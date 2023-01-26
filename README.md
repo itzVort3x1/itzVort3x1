@@ -1,7 +1,7 @@
 ### Hi there, I'm Kaustubh - aka **itzVort3x1**👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/saiKaustubh?color=1DA1F2&logo=Twitter&style=for-the-badge)
-<br>
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/saiKaustubh?color=1DA1F2&logo=Twitter&style=for-the-badge) -->
+<!-- <br> -->
 
 # 💫 About Me:
 🌱 I’m currently learning Swift. <br>👯 I’m looking to collaborate with other Developer on small projects<br>🥅 2022 Goals: Microservices, Competitive Programming<br>💬 Ask me any Questions Related to front-end Technology, Web development, App development.<br>⚡ Fun fact: Coffee addict and a Music enthusiast

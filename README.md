@@ -10,7 +10,7 @@
 - [Portfolio](https://itzvort3x1.github.io/portfolio/)
 - [Streamy](https://streamy.pages.dev)
 - [URLS](https://urls-bzh.pages.dev)
-- [PayZee](https://easepay-ui.vercel.app/)
+- [PayZee](https://payzee.vercel.app/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1754) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/buzzzzinga_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saikaustubh) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14154849) 

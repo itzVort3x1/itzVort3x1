@@ -7,7 +7,7 @@
 🌱 I’m currently Pursuing Master's at Trinity College Dublin. <br>👯 I’m looking to collaborate with other developers on projects<br>💬 Ask me any Questions Related to front-end Technology, Web development, App development.
 
 # 🖥️ Projects
-- [Portfolio](https://itzvort3x1.github.io/portfolio/)
+- [Portfolio](https://www.buildwithkaustubh.tech/)
 - [Streamy](https://streamy.pages.dev)
 - [URLS](https://urls-bzh.pages.dev)
 - [PayZee](https://payzee.vercel.app/)
